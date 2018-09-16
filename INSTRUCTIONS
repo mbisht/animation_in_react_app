@@ -1,0 +1,11 @@
+React animations
+
+port or url->  http://localhost:3000/
+
+1) npm start
+2) npm install react-transition-group --save
+3) npm install
+4) react move documentation and source code
+a) https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions
+b) https://github.com/react-tools/react-move
+c) https://react-move.js.org/#/
